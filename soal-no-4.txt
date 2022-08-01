@@ -1,0 +1,4 @@
+4.Dari pemahaman saya pada soal no 2,alamat-dari-alamat sebuah variabel dapat ditentukan setelah 3 kali ulang.
+Pertama pointer pointer pointer d mendapatkan alamat variabel c, 
+kemudian pointer pointer c mendapatkan alamat variabel b, 
+kemudian pointer b mendapatkan alamat dari variabel a.
